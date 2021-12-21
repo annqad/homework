@@ -1,0 +1,25 @@
+.post {
+    color: black;
+    border: 1px solid black;
+    margin-bottom: 15px;
+    padding: 20px;
+    background-color: hotpink;
+    height: 500px;
+    flex: 1 0 21%;
+    margin-left: 10px;
+  
+}
+.title {
+ text-align: center;
+ margin-bottom: 50px;
+ font-weight: bolder;
+}
+
+.body{
+    text-align: center;
+}
+ body {
+    flex-wrap: wrap;
+    display: flex ;
+    justify-content: space-between;
+ }
